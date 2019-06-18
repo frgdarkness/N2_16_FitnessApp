@@ -13,7 +13,7 @@
 	* Phạm vi sử dụng: Bất kể ai muốn cải thiện về sức khỏe và thể hình.  
 	* Cách thức sử dụng: Người dùng chỉ việc tải về cài đặt và mở ứng dụng ra. Bên trong ứng dụng có những hướng dẫn tập bằng chữ, hình ảnh, hình động và người dùng chỉ việc làm theo.  
 	
-![Màn hình chính](./giaoDien/main_layout.png)  
+![Màn hình chính](./image/giaoDien/main_layout.png)  
 
 ![Bài tập cụ thể](./image/giaoDien/chess_beginner.png)  
 
