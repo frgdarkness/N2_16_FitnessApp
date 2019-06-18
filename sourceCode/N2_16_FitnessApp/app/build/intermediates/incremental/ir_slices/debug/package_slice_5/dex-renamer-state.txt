@@ -1,0 +1,4 @@
+#Tue Jun 18 23:42:56 ICT 2019
+base.0=D\:\\Learn\\K2_N4_201819\\Android\\BackUp\\18062019\\Android\\FitnessApp-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex

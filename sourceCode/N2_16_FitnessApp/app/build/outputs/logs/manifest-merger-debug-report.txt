@@ -1,0 +1,483 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:2:1-73:12
+MERGED from [com.android.databinding:adapters:3.4.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\112f0afabb8a02eaba9e319928db5c2d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.databinding:library:3.4.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\f179cb8654fe669aba4acd7654a19a48\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\48ec80fab64cf038ce066633a899eb59\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.prolificinteractive:material-calendarview:2.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\11850d4087bfc3d39b316fc8ebb281a7\AndroidManifest.xml:2:1-19:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\94ddd5daf811a321eac93f54e11cc0ca\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-login:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\5e8c36598df49deca19f567f70044f2a\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\82554f01f08b74077941a97b9e11d011\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\c70a38a6ec11612f921b43addf1b1ee6\AndroidManifest.xml:21:1-37:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\0d903587a738b1697104b09af00394a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\1ccf091d3b6362e1aa42423ad5ba84ac\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\ef5471532cc82cce5910fe621a24564e\AndroidManifest.xml:15:1-36:12
+MERGED from [com.jakewharton:butterknife:9.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\549695d08deaf7001684d6f17555ee10\AndroidManifest.xml:2:1-7:12
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\442d503958bc259e35fb1b24fe7d72ea\AndroidManifest.xml:2:1-11:12
+MERGED from [com.intuit.ssp:ssp-android:1.0.6] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\597d9cce13e6711ef76198ece98e5c68\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\0ed5aa7720e591150b0bb9ce9ce54815\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\701c8a2ca0f8c8504523a12c480f67fc\AndroidManifest.xml:17:1-22:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.16] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\a409b8dcece8dd48579023f9840493ac\AndroidManifest.xml:2:1-10:12
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\6df55c695e30c7b4e25cb326457555d9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\abdfd94b87aa2f6ed58c9aed2768eee9\AndroidManifest.xml:17:1-39:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\1c03b5ec9e48149aaa7b7174d7dbf07c\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\7648f982ed2939c1ea71d8d96c89fb3b\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\00a328284e82afc4c26498f9d066ded1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\f185c010175f058b9fa0226116529654\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\f63c4a537be252fc5d06e42a9e4be8c0\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\0bd9be42c99c8fed2e308e942c770bf9\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\5103b7a294052c3949c3e687bf549006\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\53c640f6b08131599c0e4e00d9659673\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\608b8659efc3cd97ea302d9219e8c968\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\43fbdc736cc2e11f8afa3877ed2a79fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\1aed566a1904b9b38dc6b41345a41e98\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-places:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\865d584c9649ecba2d4e39f45b082772\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\61aa400174352c265fc444d1b9151923\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\2841ed05ba704149e3c3718225a0da6e\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-core:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\ff71864e6b0fc8df87006852de7a0730\AndroidManifest.xml:21:1-53:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\8831f1757e4d4134ae00dd43133cc2b9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\53b586651746752b21d430c2e8e9a8a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\699542937068d7358c56396890b6a62a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife-runtime:9.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\b6736e49a552faf07518356a1f6b75ec\AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\9bea946d4e1288e604717fded9831224\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\618e889c66c4865fc79925f5e7ab8147\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\1a820dd385d9a53d0c8b565696defabe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\56c344c53d06a1e094f61a86839978a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\c81f0286e7daf4d324c4e7b4178e70ef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\2e6f52c3e4f9c5c6a89d1e063c663a1e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\1cc23e0b11e1efecd1fa56cd8fcec4cb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\d720bea1f1a132f8817fabc1d2dd29f9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\6bdc238a3121d702dc644efad37b1c33\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\2ed61016b6ce3582c6db4494ac8f80eb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\ae1c99082a17fe2b988e735a210594f7\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\2972bb6872ef540c27af5cc22951c992\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\556ca809db19518d0810cee370029128\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\c5cc35eca82be2b792a0bcde10921dfe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\8204f83ded678f4722748293d1e229f6\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\a19cc3d0942d5930c966f079a72755e3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\23da52ad6741868a37502508e253a6de\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\7ef926284160b0834595047f2eeb492b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\dd7ca1c20c238a4e8d552794090f229f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\1d042aeeb60966102fabd6b9fc58f02b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\a303af2a8e4fc67f2175f8c2549139a4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\30954812a1e1f313c1acfd1484bf6dcc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\95827c84f461034eeb99e155e91fe050\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\8a672755576981c677505836b75ecae4\AndroidManifest.xml:2:1-7:12
+INJECTED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:2:1-73:12
+	package
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:4:5-40
+		INJECTED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:2:1-73:12
+		INJECTED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:2:1-73:12
+		INJECTED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\ef5471532cc82cce5910fe621a24564e\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\ef5471532cc82cce5910fe621a24564e\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:6:5-72:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\48ec80fab64cf038ce066633a899eb59\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\48ec80fab64cf038ce066633a899eb59\AndroidManifest.xml:22:5-20
+MERGED from [com.github.prolificinteractive:material-calendarview:2.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\11850d4087bfc3d39b316fc8ebb281a7\AndroidManifest.xml:11:5-17:19
+MERGED from [com.github.prolificinteractive:material-calendarview:2.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\11850d4087bfc3d39b316fc8ebb281a7\AndroidManifest.xml:11:5-17:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\94ddd5daf811a321eac93f54e11cc0ca\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\94ddd5daf811a321eac93f54e11cc0ca\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\5e8c36598df49deca19f567f70044f2a\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\5e8c36598df49deca19f567f70044f2a\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\82554f01f08b74077941a97b9e11d011\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\82554f01f08b74077941a97b9e11d011\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\c70a38a6ec11612f921b43addf1b1ee6\AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.android:facebook-common:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\c70a38a6ec11612f921b43addf1b1ee6\AndroidManifest.xml:28:5-35:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\1ccf091d3b6362e1aa42423ad5ba84ac\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\1ccf091d3b6362e1aa42423ad5ba84ac\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\ef5471532cc82cce5910fe621a24564e\AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\ef5471532cc82cce5910fe621a24564e\AndroidManifest.xml:28:5-34:19
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\6df55c695e30c7b4e25cb326457555d9\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\6df55c695e30c7b4e25cb326457555d9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\abdfd94b87aa2f6ed58c9aed2768eee9\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\abdfd94b87aa2f6ed58c9aed2768eee9\AndroidManifest.xml:22:5-37:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\1c03b5ec9e48149aaa7b7174d7dbf07c\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\1c03b5ec9e48149aaa7b7174d7dbf07c\AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\f185c010175f058b9fa0226116529654\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\f185c010175f058b9fa0226116529654\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\f63c4a537be252fc5d06e42a9e4be8c0\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\f63c4a537be252fc5d06e42a9e4be8c0\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\0bd9be42c99c8fed2e308e942c770bf9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\0bd9be42c99c8fed2e308e942c770bf9\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\5103b7a294052c3949c3e687bf549006\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\5103b7a294052c3949c3e687bf549006\AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.android:facebook-places:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\865d584c9649ecba2d4e39f45b082772\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\865d584c9649ecba2d4e39f45b082772\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\61aa400174352c265fc444d1b9151923\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\61aa400174352c265fc444d1b9151923\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\2841ed05ba704149e3c3718225a0da6e\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\2841ed05ba704149e3c3718225a0da6e\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-core:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\ff71864e6b0fc8df87006852de7a0730\AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\ff71864e6b0fc8df87006852de7a0730\AndroidManifest.xml:28:5-51:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\ae1c99082a17fe2b988e735a210594f7\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\ae1c99082a17fe2b988e735a210594f7\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\556ca809db19518d0810cee370029128\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\556ca809db19518d0810cee370029128\AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\8204f83ded678f4722748293d1e229f6\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\8204f83ded678f4722748293d1e229f6\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\ae1c99082a17fe2b988e735a210594f7\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:10:9-36
+	android:roundIcon
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:13:9-40
+	android:name
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:7:9-41
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:14:9-107
+	android:value
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:14:66-105
+	android:name
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:14:20-65
+activity#com.example.hoang.fitness.activities.SigninActivity
+ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:15:9-23:20
+	android:launchMode
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:16:13-43
+	android:name
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:15:19-60
+activity#com.example.hoang.fitness.activities.TestActivity
+ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:24:9-32:20
+	android:launchMode
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:25:13-43
+	android:name
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:24:19-58
+activity#com.example.hoang.fitness.activities.MainActivity
+ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:33:9-41:20
+	android:launchMode
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:33:19-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:39:27-74
+activity#com.example.hoang.fitness.activities.WorkoutDetailActivity
+ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:42:9-45:20
+	android:parentActivityName
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:43:13-66
+	android:name
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:42:19-67
+activity#com.example.hoang.fitness.activities.ExerciseDescriptionActivity
+ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:46:9-47:20
+	android:name
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:46:19-73
+activity#com.example.hoang.fitness.activities.PickExerciseActivity
+ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:48:9-52:20
+	android:parentActivityName
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:49:13-66
+	android:launchMode
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:50:13-43
+	android:name
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:48:19-66
+activity#com.example.hoang.fitness.activities.PlayingActivity
+ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:53:9-57:20
+	android:parentActivityName
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:54:13-66
+	android:launchMode
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:55:13-43
+	android:name
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:53:19-61
+activity#com.example.hoang.fitness.activities.FinishActivity
+ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:58:9-62:20
+	android:parentActivityName
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:59:13-66
+	android:launchMode
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:60:13-43
+	android:name
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:58:19-60
+activity#com.example.hoang.fitness.activities.DetailTargetActivity
+ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:63:9-64:20
+	android:name
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:63:19-66
+activity#com.example.hoang.fitness.activities.AlertDialogActivity
+ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:65:9-68:20
+	tools:targetApi
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:67:13-39
+	android:theme
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:66:13-71
+	android:name
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:65:19-65
+receiver#com.example.hoang.fitness.receiver.AlarmReceiver
+ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:69:9-70:20
+	android:name
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:69:19-57
+receiver#com.example.hoang.fitness.notification.NotificationReceiver
+ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:71:9-71
+	android:name
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml:71:19-68
+uses-sdk
+INJECTED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.databinding:adapters:3.4.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\112f0afabb8a02eaba9e319928db5c2d\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:adapters:3.4.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\112f0afabb8a02eaba9e319928db5c2d\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.4.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\f179cb8654fe669aba4acd7654a19a48\AndroidManifest.xml:22:5-44
+MERGED from [com.android.databinding:library:3.4.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\f179cb8654fe669aba4acd7654a19a48\AndroidManifest.xml:22:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\48ec80fab64cf038ce066633a899eb59\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\48ec80fab64cf038ce066633a899eb59\AndroidManifest.xml:20:5-44
+MERGED from [com.github.prolificinteractive:material-calendarview:2.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\11850d4087bfc3d39b316fc8ebb281a7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.prolificinteractive:material-calendarview:2.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\11850d4087bfc3d39b316fc8ebb281a7\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\94ddd5daf811a321eac93f54e11cc0ca\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\94ddd5daf811a321eac93f54e11cc0ca\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\5e8c36598df49deca19f567f70044f2a\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\5e8c36598df49deca19f567f70044f2a\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\82554f01f08b74077941a97b9e11d011\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\82554f01f08b74077941a97b9e11d011\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\c70a38a6ec11612f921b43addf1b1ee6\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\c70a38a6ec11612f921b43addf1b1ee6\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\0d903587a738b1697104b09af00394a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\0d903587a738b1697104b09af00394a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\1ccf091d3b6362e1aa42423ad5ba84ac\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\1ccf091d3b6362e1aa42423ad5ba84ac\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\ef5471532cc82cce5910fe621a24564e\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:16.1.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\ef5471532cc82cce5910fe621a24564e\AndroidManifest.xml:19:5-21:41
+MERGED from [com.jakewharton:butterknife:9.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\549695d08deaf7001684d6f17555ee10\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife:9.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\549695d08deaf7001684d6f17555ee10\AndroidManifest.xml:5:5-44
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\442d503958bc259e35fb1b24fe7d72ea\AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.6] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\442d503958bc259e35fb1b24fe7d72ea\AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.ssp:ssp-android:1.0.6] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\597d9cce13e6711ef76198ece98e5c68\AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.ssp:ssp-android:1.0.6] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\597d9cce13e6711ef76198ece98e5c68\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\0ed5aa7720e591150b0bb9ce9ce54815\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\0ed5aa7720e591150b0bb9ce9ce54815\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\701c8a2ca0f8c8504523a12c480f67fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\701c8a2ca0f8c8504523a12c480f67fc\AndroidManifest.xml:20:5-44
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.16] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\a409b8dcece8dd48579023f9840493ac\AndroidManifest.xml:6:5-8:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.16] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\a409b8dcece8dd48579023f9840493ac\AndroidManifest.xml:6:5-8:41
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\6df55c695e30c7b4e25cb326457555d9\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\6df55c695e30c7b4e25cb326457555d9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\abdfd94b87aa2f6ed58c9aed2768eee9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\abdfd94b87aa2f6ed58c9aed2768eee9\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\1c03b5ec9e48149aaa7b7174d7dbf07c\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\1c03b5ec9e48149aaa7b7174d7dbf07c\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\7648f982ed2939c1ea71d8d96c89fb3b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\7648f982ed2939c1ea71d8d96c89fb3b\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\00a328284e82afc4c26498f9d066ded1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\00a328284e82afc4c26498f9d066ded1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\f185c010175f058b9fa0226116529654\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\f185c010175f058b9fa0226116529654\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\f63c4a537be252fc5d06e42a9e4be8c0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:16.1.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\f63c4a537be252fc5d06e42a9e4be8c0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\0bd9be42c99c8fed2e308e942c770bf9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\0bd9be42c99c8fed2e308e942c770bf9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\5103b7a294052c3949c3e687bf549006\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\5103b7a294052c3949c3e687bf549006\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\53c640f6b08131599c0e4e00d9659673\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\53c640f6b08131599c0e4e00d9659673\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\608b8659efc3cd97ea302d9219e8c968\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\608b8659efc3cd97ea302d9219e8c968\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\43fbdc736cc2e11f8afa3877ed2a79fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\43fbdc736cc2e11f8afa3877ed2a79fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\1aed566a1904b9b38dc6b41345a41e98\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\1aed566a1904b9b38dc6b41345a41e98\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-places:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\865d584c9649ecba2d4e39f45b082772\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\865d584c9649ecba2d4e39f45b082772\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\61aa400174352c265fc444d1b9151923\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\61aa400174352c265fc444d1b9151923\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\2841ed05ba704149e3c3718225a0da6e\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\2841ed05ba704149e3c3718225a0da6e\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\ff71864e6b0fc8df87006852de7a0730\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\ff71864e6b0fc8df87006852de7a0730\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\8831f1757e4d4134ae00dd43133cc2b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\8831f1757e4d4134ae00dd43133cc2b9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\53b586651746752b21d430c2e8e9a8a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\53b586651746752b21d430c2e8e9a8a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\699542937068d7358c56396890b6a62a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\699542937068d7358c56396890b6a62a\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton:butterknife-runtime:9.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\b6736e49a552faf07518356a1f6b75ec\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife-runtime:9.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\b6736e49a552faf07518356a1f6b75ec\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\9bea946d4e1288e604717fded9831224\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\9bea946d4e1288e604717fded9831224\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\618e889c66c4865fc79925f5e7ab8147\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\618e889c66c4865fc79925f5e7ab8147\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\1a820dd385d9a53d0c8b565696defabe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\1a820dd385d9a53d0c8b565696defabe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\56c344c53d06a1e094f61a86839978a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\56c344c53d06a1e094f61a86839978a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\c81f0286e7daf4d324c4e7b4178e70ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\c81f0286e7daf4d324c4e7b4178e70ef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\2e6f52c3e4f9c5c6a89d1e063c663a1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\2e6f52c3e4f9c5c6a89d1e063c663a1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\1cc23e0b11e1efecd1fa56cd8fcec4cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\1cc23e0b11e1efecd1fa56cd8fcec4cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\d720bea1f1a132f8817fabc1d2dd29f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\d720bea1f1a132f8817fabc1d2dd29f9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\6bdc238a3121d702dc644efad37b1c33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\6bdc238a3121d702dc644efad37b1c33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\2ed61016b6ce3582c6db4494ac8f80eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\2ed61016b6ce3582c6db4494ac8f80eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\ae1c99082a17fe2b988e735a210594f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\ae1c99082a17fe2b988e735a210594f7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\2972bb6872ef540c27af5cc22951c992\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\2972bb6872ef540c27af5cc22951c992\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\556ca809db19518d0810cee370029128\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\556ca809db19518d0810cee370029128\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\c5cc35eca82be2b792a0bcde10921dfe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\c5cc35eca82be2b792a0bcde10921dfe\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\8204f83ded678f4722748293d1e229f6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\8204f83ded678f4722748293d1e229f6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\a19cc3d0942d5930c966f079a72755e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\a19cc3d0942d5930c966f079a72755e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\23da52ad6741868a37502508e253a6de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\23da52ad6741868a37502508e253a6de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\7ef926284160b0834595047f2eeb492b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\7ef926284160b0834595047f2eeb492b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\dd7ca1c20c238a4e8d552794090f229f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\dd7ca1c20c238a4e8d552794090f229f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\1d042aeeb60966102fabd6b9fc58f02b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\1d042aeeb60966102fabd6b9fc58f02b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\a303af2a8e4fc67f2175f8c2549139a4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\a303af2a8e4fc67f2175f8c2549139a4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\30954812a1e1f313c1acfd1484bf6dcc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\30954812a1e1f313c1acfd1484bf6dcc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\95827c84f461034eeb99e155e91fe050\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\95827c84f461034eeb99e155e91fe050\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\8a672755576981c677505836b75ecae4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\8a672755576981c677505836b75ecae4\AndroidManifest.xml:5:5-44
+INJECTED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Learn\K2_N4_201819\Android\BackUp\18062019\Android\FitnessApp-master\app\src\main\AndroidManifest.xml
+provider#com.prolificinteractive.materialcalendarview.MaterialCalendarViewInitProvider
+ADDED from [com.github.prolificinteractive:material-calendarview:2.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\11850d4087bfc3d39b316fc8ebb281a7\AndroidManifest.xml:12:9-16:40
+	android:enabled
+		ADDED from [com.github.prolificinteractive:material-calendarview:2.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\11850d4087bfc3d39b316fc8ebb281a7\AndroidManifest.xml:15:13-35
+	android:authorities
+		ADDED from [com.github.prolificinteractive:material-calendarview:2.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\11850d4087bfc3d39b316fc8ebb281a7\AndroidManifest.xml:14:13-84
+	android:exported
+		ADDED from [com.github.prolificinteractive:material-calendarview:2.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\11850d4087bfc3d39b316fc8ebb281a7\AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [com.github.prolificinteractive:material-calendarview:2.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\11850d4087bfc3d39b316fc8ebb281a7\AndroidManifest.xml:13:13-105
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\c70a38a6ec11612f921b43addf1b1ee6\AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\c70a38a6ec11612f921b43addf1b1ee6\AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\c70a38a6ec11612f921b43addf1b1ee6\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\c70a38a6ec11612f921b43addf1b1ee6\AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\c70a38a6ec11612f921b43addf1b1ee6\AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\c70a38a6ec11612f921b43addf1b1ee6\AndroidManifest.xml:33:19-68
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-common:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\c70a38a6ec11612f921b43addf1b1ee6\AndroidManifest.xml:34:9-67
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\c70a38a6ec11612f921b43addf1b1ee6\AndroidManifest.xml:34:19-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-database:16.1.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\ef5471532cc82cce5910fe621a24564e\AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-database:16.1.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\ef5471532cc82cce5910fe621a24564e\AndroidManifest.xml:25:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-database:16.1.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\ef5471532cc82cce5910fe621a24564e\AndroidManifest.xml:29:9-33:19
+	android:name
+		ADDED from [com.google.firebase:firebase-database:16.1.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\ef5471532cc82cce5910fe621a24564e\AndroidManifest.xml:29:18-89
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:16.1.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\ef5471532cc82cce5910fe621a24564e\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:16.1.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\ef5471532cc82cce5910fe621a24564e\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:16.1.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\ef5471532cc82cce5910fe621a24564e\AndroidManifest.xml:31:17-109
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\abdfd94b87aa2f6ed58c9aed2768eee9\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\abdfd94b87aa2f6ed58c9aed2768eee9\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\abdfd94b87aa2f6ed58c9aed2768eee9\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\abdfd94b87aa2f6ed58c9aed2768eee9\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\abdfd94b87aa2f6ed58c9aed2768eee9\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\abdfd94b87aa2f6ed58c9aed2768eee9\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\abdfd94b87aa2f6ed58c9aed2768eee9\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\abdfd94b87aa2f6ed58c9aed2768eee9\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\abdfd94b87aa2f6ed58c9aed2768eee9\AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\f185c010175f058b9fa0226116529654\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\f185c010175f058b9fa0226116529654\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\f185c010175f058b9fa0226116529654\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\f185c010175f058b9fa0226116529654\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\f63c4a537be252fc5d06e42a9e4be8c0\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\f63c4a537be252fc5d06e42a9e4be8c0\AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\f63c4a537be252fc5d06e42a9e4be8c0\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\f63c4a537be252fc5d06e42a9e4be8c0\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.1.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\f63c4a537be252fc5d06e42a9e4be8c0\AndroidManifest.xml:13:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\5103b7a294052c3949c3e687bf549006\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\5103b7a294052c3949c3e687bf549006\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\5103b7a294052c3949c3e687bf549006\AndroidManifest.xml:24:13-58
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\ff71864e6b0fc8df87006852de7a0730\AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\ff71864e6b0fc8df87006852de7a0730\AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\ff71864e6b0fc8df87006852de7a0730\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\ff71864e6b0fc8df87006852de7a0730\AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\ff71864e6b0fc8df87006852de7a0730\AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\ff71864e6b0fc8df87006852de7a0730\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\ff71864e6b0fc8df87006852de7a0730\AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\ff71864e6b0fc8df87006852de7a0730\AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\ff71864e6b0fc8df87006852de7a0730\AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.42.0] C:\Users\hoang\.gradle\caches\transforms-2\files-2.1\ff71864e6b0fc8df87006852de7a0730\AndroidManifest.xml:48:25-92
